@@ -9,3 +9,5 @@
 - Visual Studio Code
 - Chat GPT 3.5 (**free**)
 - 기본 제공되는 베이스코드 [코드.zip](https://github.com/SAMEZ-0129/Web_Service_with.Chat-GPT/files/13863207/default.zip)
+
+해당 베이스코드의 js코드를 작성하여 랜덤 이미지를 생성하는 사이트 제작.
