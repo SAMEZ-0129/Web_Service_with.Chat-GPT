@@ -27,3 +27,7 @@ const randomNumber = Math.floor(Math.random() * 1000) + 1;
     const img = document.createElement('img');
     img.src = `https://picsum.photos/500?random=${randomNumber}`;
 ```
+
+추가로 구현한 사항
+- 이미지 30개 생성 후 버튼 클릭 시 기존 이미지 제거, 새로운 이미지 30개 생성.
+- 이미지 클릭 시 모달창으로 크게 보여줌. (버그 존재)
