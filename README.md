@@ -8,3 +8,4 @@
 # 준비물
 - Visual Studio Code
 - Chat GPT 3.5 (**free**)
+- 기본 제공되는 베이스코드 [코드.zip](https://github.com/SAMEZ-0129/Web_Service_with.Chat-GPT/files/13863207/default.zip)
