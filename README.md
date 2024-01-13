@@ -41,3 +41,6 @@ const randomNumber = Math.floor(Math.random() * 1000) + 1;
 
 작성한 코드가 들어있는 파일을 압축해서 드랍.
 상단에 프로젝트명을 클릭하면 홈화면이 나옴, 해당 부분에 링크가 최종 배포된 링크.
+
+# 최종 결과물
+[AI 이미지 랜덤 생성 사이트](https://65a2c45ce7ac41e17bc30f1f--jolly-crumble-525158.netlify.app/)
