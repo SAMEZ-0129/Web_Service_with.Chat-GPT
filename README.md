@@ -28,6 +28,16 @@ const randomNumber = Math.floor(Math.random() * 1000) + 1;
     img.src = `https://picsum.photos/500?random=${randomNumber}`;
 ```
 
-추가로 구현한 사항
+추가로 구현한 사항 (강의에 나온 추가 내용과는 일부 다름)
 - 이미지 30개 생성 후 버튼 클릭 시 기존 이미지 제거, 새로운 이미지 30개 생성.
 - 이미지 클릭 시 모달창으로 크게 보여줌. (버그 존재)
+- 새로 이미지를 생성하고 싶을 때 팝업창 노출
+
+# 배포하기
+**Netlify**를 활용한 배포
+가입/로그인 후 수동으로 배포하기 선택
+
+![image](https://github.com/SAMEZ-0129/Web_Service_with.Chat-GPT/assets/81644075/c7782a48-151b-4f97-802b-a8a442870371)
+
+작성한 코드가 들어있는 파일을 압축해서 드랍.
+상단에 프로젝트명을 클릭하면 홈화면이 나옴, 해당 부분에 링크가 최종 배포된 링크.
